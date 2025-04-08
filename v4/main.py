@@ -91,3 +91,6 @@ def update_student(student_id: int, student: Student, session: SessionDep) -> St
   session.refresh(student_from_db)
 
   return student_from_db
+
+
+# Komentar 1
