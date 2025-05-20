@@ -1,0 +1,24 @@
+/* --clr-grey-1: hsl(200, 60%, 16%)
+--clr-grey-2: hsl(210, 60%, 16%)
+--clr-grey-3: hsl(220, 60%, 16%) */
+
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.center {
+  text-align: center;
+  /* background-color: var(--clr-grey-1) */
+}
